@@ -1,0 +1,28 @@
+.home {
+  height: calc(100vh - 88px);
+  //   background-color: orange;
+  width: 100%;
+  color: white;
+  display: flex;
+  align-items: center;
+
+  .home_container {
+    width: 80%;
+    // background-color: green;
+    height: 100%;
+    margin: auto;
+    display: flex;
+
+    .home_user_info {
+      width: 50%;
+      height: 100%;
+    //   background-color: gray;
+    }
+
+    .home_user_profile {
+      width: 50%;
+      height: 100%;
+      //   background-color: wheat;
+    }
+  }
+}
