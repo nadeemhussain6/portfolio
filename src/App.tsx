@@ -1,4 +1,4 @@
-import Header from "./components/Header/Header";
+// import Header from "./components/Header/Header";
 import Navbar from "./components/Navbar/Navbar";
 import  { ParticleBg } from "./components/Particles";
 import Home from "./pages/Home/Home";
